@@ -1,0 +1,132 @@
+{
+    "channels": [
+        {
+            "output": "mac_napi.0",
+            "input": "rpi_fpga.0"
+        },
+        {
+            "output": "mac_napi.1",
+            "input": "rpi_fpga.1"
+        },
+        {
+            "output": "mac_napi.2",
+            "input": "rpi_fpga.2"
+        },
+        {
+            "output": "mac_napi.3",
+            "input": "rpi_fpga.3"
+        },
+        {
+            "output": "mac_napi.4",
+            "input": "rpi_fpga.4"
+        },
+        {
+            "output": "mac_napi.5",
+            "input": "rpi_fpga.5"
+        },
+        {
+            "output": "mac_napi.6",
+            "input": "rpi_fpga.6"
+        },
+        {
+            "output": "mac_napi.7",
+            "input": "rpi_fpga.7"
+        },
+        {
+            "output": "mac_napi.8",
+            "input": "rpi_fpga.8"
+        },
+        {
+            "output": "mac_napi.9",
+            "input": "rpi_fpga.9"
+        },
+        {
+            "output": "mac_napi.10",
+            "input": "rpi_fpga.10"
+        },
+        {
+            "output": "mac_napi.11",
+            "input": "rpi_fpga.11"
+        },
+        {
+            "output": "mac_napi.12",
+            "input": "rpi_fpga.12"
+        },
+        {
+            "output": "mac_napi.13",
+            "input": "rpi_fpga.13"
+        },
+        {
+            "output": "mac_napi.14",
+            "input": "rpi_fpga.14"
+        },
+        {
+            "output": "mac_napi.15",
+            "input": "rpi_fpga.15"
+        },
+        {
+            "output": "mac_napi.16",
+            "input": "rpi_fpga.16"
+        },
+        {
+            "output": "mac_napi.17",
+            "input": "rpi_fpga.17"
+        },
+        {
+            "output": "mac_napi.18",
+            "input": "rpi_fpga.18"
+        },
+        {
+            "output": "mac_napi.19",
+            "input": "rpi_fpga.19"
+        },
+        {
+            "output": "mac_napi.20",
+            "input": "rpi_fpga.20"
+        },
+        {
+            "output": "mac_napi.21",
+            "input": "rpi_fpga.21"
+        },
+        {
+            "output": "mac_napi.22",
+            "input": "rpi_fpga.22"
+        },
+        {
+            "output": "mac_napi.23",
+            "input": "rpi_fpga.23"
+        },
+        {
+            "output": "mac_napi.24",
+            "input": "rpi_fpga.24"
+        },
+        {
+            "output": "mac_napi.25",
+            "input": "rpi_fpga.25"
+        },
+        {
+            "output": "mac_napi.26",
+            "input": "rpi_fpga.26"
+        },
+        {
+            "output": "mac_napi.27",
+            "input": "rpi_fpga.27"
+        },
+        {
+            "output": "mac_napi.28",
+            "input": "rpi_fpga.28"
+        },
+        {
+            "output": "mac_napi.29",
+            "input": "rpi_fpga.29"
+        },
+        {
+            "output": "mac_napi.30",
+            "input": "rpi_fpga.30"
+        },
+        {
+            "output": "mac_napi.31",
+            "input": "rpi_fpga.31"
+        }
+    ]
+}

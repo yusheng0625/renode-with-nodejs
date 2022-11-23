@@ -1,0 +1,12 @@
+.dockerignore
+.git*
+.vscode
+build
+build_*
+docker
+mirror
+package-lock.json
+node/package-lock.json
+node_modules
+*node_modules*
+**/node_modules*

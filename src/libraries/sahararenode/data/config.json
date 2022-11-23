@@ -1,0 +1,40 @@
+{
+    "express": {
+        "port": 6000,
+        "headers": [{"name": "Access-Control-Allow-Origin", "value": "*"}]
+    },
+    "mongo": {
+        "host": "dev.saharacloud.io",
+        "port": 27021,
+        "db": "network",
+        "poolSize": 5
+    },
+    "handlers": {
+        "NetworkEnumerate": {},
+        "NetworkTransmit": {},
+        "NetworkProvision": {},
+        "NetworkMetadata": {},
+        "NetworkActivate": {}
+    },
+    "services": {
+        "socket": {
+            "retryMax": 2,
+            "refreshSleep": 1
+        },
+        "discovery": {
+            "uriPrefix": "d",
+            "refreshSleep": 30000
+        }
+    },
+    "networkConstants": {
+        "URI_PREFIX": "d",
+        "HOST_MAC": "dca632530834",
+        "UDP_PORT": 3005,
+        "HOST_IP": "1.2.3.100",
+        "DISCOVERY_PORT": 3005,
+        "TYPE_CONFIG": "02",
+        "TYPE_DATA": "01",
+        "BROADCAST_IP": "1.2.3.4"
+    },
+    "doNetwork": true
+}

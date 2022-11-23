@@ -1,0 +1,68 @@
+{
+    "channels": [
+        {
+            "output": "rpi1.0",
+            "input": "rpi3.0"
+        },
+        {
+            "output": "rpi1.1",
+            "input": "rpi3.1"
+        },
+        {
+            "output": "rpi1.2",
+            "input": "rpi3.2"
+        },
+        {
+            "output": "rpi1.3",
+            "input": "rpi3.3"
+        },
+        {
+            "output": "rpi1.4",
+            "input": "rpi3.4"
+        },
+        {
+            "output": "rpi1.5",
+            "input": "rpi3.5"
+        },
+        {
+            "output": "rpi1.6",
+            "input": "rpi3.6"
+        },
+        {
+            "output": "rpi1.7",
+            "input": "rpi3.7"
+        },
+        {
+            "output": "rpi1.8",
+            "input": "rpi3.8"
+        },
+        {
+            "output": "rpi1.9",
+            "input": "rpi3.9"
+        },
+        {
+            "output": "rpi1.10",
+            "input": "rpi3.10"
+        },
+        {
+            "output": "rpi1.11",
+            "input": "rpi3.11"
+        },
+        {
+            "output": "rpi1.12",
+            "input": "rpi3.12"
+        },
+        {
+            "output": "rpi1.13",
+            "input": "rpi3.13"
+        },
+        {
+            "output": "rpi1.14",
+            "input": "rpi3.14"
+        },
+        {
+            "output": "rpi1.15",
+            "input": "rpi3.15"
+        }
+    ]
+}

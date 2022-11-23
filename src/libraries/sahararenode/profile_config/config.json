@@ -1,0 +1,28 @@
+{
+    "options": {
+        "testing": 0,
+        "verbose": 1,
+        "doraw": 0,
+        "sniff_napi": 1,
+        "sniff_napi_queue_limit": 3,
+        "sniff_sdp": 1,
+        "sniff_sdp_queue_limit": 3,
+        "sniff_snp": 0,
+        "sniff_snp_queue_limit": 3,
+        "sdp_read_thread_speed": 0,
+        "sdp_write_thread_speed": 0,
+        "sdp_process_thread_speed": 0,
+        "snp_read_thread_speed": 0,
+        "snp_write_thread_speed": 0,
+        "snp_process_thread_speed": 0,
+	"sdp_process_only_diff": 1
+    },
+    "network": {
+        "ds_uri": "rpi",
+        "sdp_addr": "127.0.0.1",
+        "sdp_port": 3005,
+        "snp_addr": "127.0.0.1",
+        "snp_port": 3001,
+        "napi_addr": "1.1.1.1"
+    }
+}

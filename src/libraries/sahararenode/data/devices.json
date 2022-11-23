@@ -1,0 +1,52 @@
+{
+    "devices": [
+        {
+            "ds_uri": "mac0",
+            "dev_uri": "mac0_napi",
+            "sdp_interface": "lo0",
+            "sdp_addr": "127.0.0.1",
+            "sdp_port": 3000,
+            "snp_addr": "127.0.0.1",
+            "snp_port": 3001,
+            "dev_addr": "1.1.1.1",
+            "dev_port": 4000,
+            "dev_mac": "b8:27:eb:b7:7a:b0"
+        },
+        {
+            "ds_uri": "mac0",
+            "dev_uri": "mac0_dev",
+            "sdp_interface": "lo0",
+            "sdp_addr": "127.0.0.1",
+            "sdp_port": 3000,
+            "snp_addr": "127.0.0.1",
+            "snp_port": 3001,
+            "dev_addr": "3.3.3.3",
+            "dev_port": 4000,
+            "dev_mac": "b8:27:eb:b7:7a:b0"
+        },
+        {
+            "ds_uri": "mac1",
+            "dev_uri": "mac1_napi",
+            "sdp_interface": "lo0",
+            "sdp_addr": "127.0.0.1",
+            "sdp_port": 3002,
+            "snp_addr": "127.0.0.1",
+            "snp_port": 3003,
+            "dev_addr": "1.1.1.2",
+            "dev_port": 4001,
+            "dev_mac": "b8:27:eb:b7:7a:b0"
+        },
+        {
+            "ds_uri": "mac1",
+            "dev_uri": "mac1_dev",
+            "sdp_interface": "lo0",
+            "sdp_addr": "127.0.0.1",
+            "sdp_port": 3002,
+            "snp_addr": "127.0.0.1",
+            "snp_port": 3003,
+            "dev_addr": "3.3.3.3",
+            "dev_port": 4001,
+            "dev_mac": "b8:27:eb:b7:7a:b0"
+        }
+    ]
+}    

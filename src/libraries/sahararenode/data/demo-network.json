@@ -1,0 +1,68 @@
+{
+    "channels": [
+        {
+            "output": "dfxcafe001.0",
+            "input": "dfxcafe002.0"
+        },
+        {
+            "output": "dfxcafe001.1",
+            "input": "dfxcafe002.1"
+        },
+        {
+            "output": "dfxcafe001.2",
+            "input": "dfxcafe002.2"
+        },
+        {
+            "output": "dfxcafe001.3",
+            "input": "dfxcafe002.3"
+        },
+        {
+            "output": "dfxcafe001.4",
+            "input": "dfxcafe002.4"
+        },
+        {
+            "output": "dfxcafe001.5",
+            "input": "dfxcafe002.5"
+        },
+        {
+            "output": "dfxcafe001.6",
+            "input": "dfxcafe002.6"
+        },
+        {
+            "output": "dfxcafe001.7",
+            "input": "dfxcafe002.7"
+        },
+        {
+            "output": "dfxcafe001.8",
+            "input": "dfxcafe002.8"
+        },
+        {
+            "output": "dfxcafe001.9",
+            "input": "dfxcafe002.9"
+        },
+        {
+            "output": "dfxcafe001.10",
+            "input": "dfxcafe002.10"
+        },
+        {
+            "output": "dfxcafe001.11",
+            "input": "dfxcafe002.11"
+        },
+        {
+            "output": "dfxcafe001.12",
+            "input": "dfxcafe002.12"
+        },
+        {
+            "output": "dfxcafe001.13",
+            "input": "dfxcafe002.13"
+        },
+        {
+            "output": "dfxcafe001.14",
+            "input": "dfxcafe002.14"
+        },
+        {
+            "output": "dfxcafe001.15",
+            "input": "dfxcafe002.15"
+        }
+    ]
+}

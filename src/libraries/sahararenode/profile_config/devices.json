@@ -1,0 +1,28 @@
+{
+    "devices": [
+        {
+            "ds_uri": "mac",
+            "dev_uri": "mac_napi",
+            "sdp_interface": "eth0",
+            "sdp_addr": "127.0.0.1",
+            "sdp_port": 3005,
+            "snp_addr": "127.0.0.1",
+            "snp_port": 3001,
+            "dev_addr": "1.1.1.1",
+            "dev_port": 4000,
+            "dev_mac": "b8:27:eb:b7:7a:b0"
+        },
+        {
+            "ds_uri": "rpi",
+            "dev_uri": "rpi_fpga",
+            "sdp_interface": "eth0",
+            "sdp_addr": "127.0.0.1",
+            "sdp_port": 3005,
+            "snp_addr": "127.0.0.1",
+            "snp_port": 3001,
+            "dev_addr": "1.2.3.15",
+            "dev_port": 3005,
+            "dev_mac": "06:05:04:03:02:01"
+        }
+    ]
+}

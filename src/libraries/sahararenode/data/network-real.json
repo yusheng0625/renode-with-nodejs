@@ -1,0 +1,18 @@
+----------------------------------------------
+| device.internal_port       -> external_port |
+----------------------------------------------
+
+joshpi.22                    -> 22
+joshpi.3000 - joshpi.3010    -> 3000 - 3010
+
+andypi.22                    -> 23
+andypi.3000 - andypi.3010    -> 3100 - 3110
+
+applepi.22                   -> 24
+applepi.3000 - applepi.3010  -> 3200 - 3210
+
+pecanpi.22                   -> 25
+pecanpi.3000 - pecanpi.3010  -> 3300 - 3310
+
+creampi.22                   -> 26
+creampi.3000 - creampi.3010  -> 3400 - 3410

@@ -1,0 +1,17 @@
+{
+    "dev_ip": "1.2.3.9",
+    "dev_port": 3005,
+    "dev_mac": "060504030201",
+    "host_ip": "1.2.3.100",
+    "host_port": 3005,
+    "host_mac": "dca632530834",
+    "bcast_ip": "1.2.3.4",
+    "bcast_port": 3005,
+    "eth_ctrl": 39,
+
+    "tx_mode_sel": 5,
+    "rx_mode_sel": 5,
+
+    "eth_io_cfg": 4294901760
+}
+

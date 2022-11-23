@@ -1,0 +1,22 @@
+{
+    "devices": [
+       {
+	    "uri": "rpi1",
+	    "dsaddr": "10.11.10.10",
+            "dsport": 22,
+	    "interface": "eth0",
+	    "ipaddr": "10.11.5.3",
+	    "port": 3005,
+            "ethaddr": "11:de:ad:ca:fe:01"
+        },
+        {
+	    "uri": "rpi3",
+            "dsaddr": "10.11.1.11",
+            "dsport": 23,
+	    "interface": "eth0",
+            "ipaddr": "10.11.3.3",
+	    "port": 3005,
+            "ethaddr": "33:de:ad:ca:fe:03"
+        }
+    ]
+}
